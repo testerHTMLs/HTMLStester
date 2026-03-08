@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" translate="no">
+<head>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="turbo-cache-control" content="no-preview">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="The Pizza Edition">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="color-scheme" content="only light">
+    <meta name="robots" content="max-image-preview:large">
+    <meta name="format-detection" content="telephone=no">
+        <style>
+    @font-face {
+      font-family: "Bebas Neue";
+      src: url("/css/BebasNeue-Regular.woff2") format("woff2");
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+    }
+  </style>
+
+<link rel="stylesheet" href="/style/style.css">
+
+
+    <script src="/analytics.js"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2550143154036518" crossorigin="anonymous"></script>
+
+    
+
+    <title>Polytrack - Free Online Game - The Pizza Edition</title>
+
+    <meta name="description" content="Play Polytrack free online on your computer, tablet, or phone. No downloads needed — simple, fun, and ready to play!"/>
+    <meta property="og:title" content="Polytrack"/>
+    <meta property="og:url" content="https://pizzaedition.win/g/polytrack"/>
+    <meta property="og:description" content="Play Polytrack free online on your computer, tablet, or phone. No downloads needed — simple, fun, and ready to play!"/>
+    <meta property="og:locale" content="en"/>
+    <meta property="og:image" content="https://pizzaedition.win/avifgames/polytrack.avif"/>
+    <meta property="og:image:width" content="256">
+    <meta property="og:image:height" content="256">
+    <meta property="og:image:alt" content="Polytrack - The Pizza Edition">
+    <meta property="og:image:type" content="image/avif">
+    <meta property="og:site_name" content="The Pizza Edition">
+    <meta property="og:type" content="website">
+    <meta property="x:card" content="summary_large_image"/>
+    <meta property="x:title" content="Polytrack"/>
+    <meta property="x:description" content="Play Polytrack free online on your computer, tablet, or phone. No downloads needed — simple, fun, and ready to play!"/>
+    <meta property="x:image" content="/avifgames/polytrack.avif"/>
+    <meta property="x:image:alt" content="Polytrack - The Pizza Edition">
+    <meta property="x:site" content="@ThePizzaEdition">
+        <link rel="canonical" href="https://pizzaedition.win/g/polytrack" />
+  <style>
+    #fullscreen-wrapper { width: 100%; height: 100%; }
+    
+    #fullscreen-wrapper:fullscreen, #fullscreen-wrapper:-webkit-full-screen { width: 100vw; height: 100vh; }
+    #fullscreen-wrapper:fullscreen iframe,
+    #fullscreen-wrapper:-webkit-full-screen iframe {
+      width: 100vw;
+      height: 100vh;
+    }
+    #fullscreen-wrapper iframe { width: 100%; height: 100%; border: 0; }
+    
+  </style>
+
+</head>
+    
+
+
+<body>
+    
+    <div id="particles-js"></div>
+<script src="/jsload/particle-load.js"></script>
+  <script src="/jsload/particle-render.js"></script>
+<div class="flex flex-col gap-y-[clamp(.5rem,2.9vw_+_.1rem,2rem)] min-h-screen">
+        <div
+        class="contents"
+        data-controller="add-to-recently-played"
+        data-add-to-recently-played-name-value="Polytrack"
+        data-add-to-recently-played-locale-value="en"
+        data-add-to-recently-played-url-value="/g/polytrack/"
+        data-add-to-recently-played-image-value="/avifgames/polytrack.avif"
+        data-add-to-recently-played-limit-value="12"
+    >
+
+        
+
+    
+    <div class="navbar">
+        <div class="navbar-left">
+            <a href="/">
+                <img src="/images/pizzalogo.png" alt="Site Logo" width="30" height="30">
+            </a>
+            <a href="/">The Pizza Edition</a>
+        </div>
+
+        <div class="navbar-right">
+            <a href="/popular">
+                <img src="/images/whitefire.png" alt="Game Icon" style="width: 24px; height: auto;">
+                Popular
+            </a>
+
+            <a href="/g">
+                <img src="/images/whitegame.png" alt="Game Icon" style="width: 25px; height: auto;">
+                Games
+            </a>
+
+            <div class="navbar-search" id="navbarSearch">
+                <form action="/search" method="GET">
+                    <img src="/images/home/search.png" alt="" class="search-input-icon">
+                    <input
+                        type="text"
+                        name="q"
+                        placeholder="Search for games"
+                        aria-label="Search for games"
+                        autocomplete="off"
+                    >
+                </form>
+                <div class="search-dropdown">
+                    <div class="search-dropdown-grid">
+
+                        <div class="search-left">
+                            <div class="search-trending-title">Trending Searches</div>
+
+                            <ul class="search-trending-list">
+                                <li data-query="Polytrack">
+                                    <img src="/images/home/search.png" alt="" class="search-trending-icon">
+                                    <span>Polytrack</span>
+                                </li>
+                                <li data-query="Ragdoll Archers">
+                                    <img src="/images/home/search.png" alt="" class="search-trending-icon">
+                                    <span>Ragdoll Archers</span>
+                                </li>
+                                <li data-query="Escape Road">
+                                    <img src="/images/home/search.png" alt="" class="search-trending-icon">
+                                    <span>Escape Road</span>
+                                </li>
+                                <li data-query="Tiny Towers">
+                                    <img src="/images/home/search.png" alt="" class="search-trending-icon">
+                                    <span>Tiny Towers</span>
+                                </li>
+                                <li data-query="Stunt Bike Extreme">
+                                    <img src="/images/home/search.png" alt="" class="search-trending-icon">
+                                    <span>Stunt Bike Extreme</span>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="search-right" id="searchResults"></div>
+
+                    </div>
+                </div>
+            </div>
+
+            <a href="/settings" class="navbar-img-link">
+                <img src="/images/icons8-settings-288.png" alt="Settings Icon" style="width: 29px; height: auto;">
+            </a>
+        </div>
+    </div> 
+
+
+    
+
+
+
+        <div class="flex flex-col items-center justify-center max-w-[--game-page-container-width] mx-auto">
+
+            <div class="game-grid">
+                <div class="game-container flex items-center justify-center col-span-8 row-span-5 [grid-area:igc]">
+                    <div class="game-container-inner overflow-hidden">
+                        <div class="flex flex-col items-center grow-0 w-full h-full bg-ash-100 rounded-b-2xl">
+                            <div class="flex justify-center items-center w-full h-full relative overflow-hidden">
+                                                                                                           <div data-controller="loading-screen">
+  
+  
+
+  
+<div id="fullscreen-wrapper" class="absolute inset-0 game-wrapper">
+    <iframe
+      id="embed-frame"
+      class="absolute top-0 left-0 border-0 w-full h-full"
+      src="/assets/mainstorage/polytrack.html"
+      allowfullscreen
+      webkitallowfullscreen
+      playsinline
+      allow="fullscreen; autoplay; gamepad; clipboard-write"
+    ></iframe>
+  </div>
+    
+</div>
+
+                                                                                                </div>
+
+                            <div class="game-toolbar flex justify-between w-full h-24 px-4 bg-ash-100 rounded-b-2xl">
+                                <div class="flex items-center w-full">
+                                    <picture>
+                                        <source srcset="/avifgames/polytrack.avif" type="image/avif">
+                                        <img src="/apnggames/polytrack.png" alt="Polytrack" class="size-14 shrink-0 overflow-hidden rounded-xl mr-4">
+                                    </picture>
+                                    <div class="min-w-[50%] leading-[1.4]">
+                                        <h1 class="text-xl font-bold text-white truncate">Polytrack</h1>
+                                        <span class="text-sm font-normal" style="color:#d1d5db;">By: Kodub</span>
+
+                                    </div>
+                                </div>
+                                                                <div class="flex items-center">
+                                    <div
+                                        class="voting max-[550.9px]:hidden contents"
+                                        data-game-id="1144"
+                                        data-url="https://game-votes-api.thepizzaedition.workers.dev/vote"
+                                        data-up="0"
+                                        data-down="0"
+                                    >
+                                        <button
+                                            id="btn-like"
+                                            class="game-toolbar-vote-button size-12 m-[14px_6px_auto] group rounded-full relative"
+                                            data-vote="up"
+                                        >
+                                            <div class="flex items-center justify-center w-full h-full">
+                                                
+<svg  class="size-6 text-blue-500" xmlns="http://www.w3.org/2000/svg">
+    <use href="/images/svg/game-icons.svg#thumbUpIcon"></use>
+</svg>
+                                            </div>
+                                            <div class="absolute left-1/2 bottom-2 font-display text-[10px] font-bold text-ash-700">
+                                                <span class="absolute left-0 top-0 -translate-x-1/2 px-[4px] bg-ash-100 whitespace-nowrap leading-4 rounded-full opacity-[--gameBarLabelOpacity] up-votes-count"></span>
+                                                <span class="game-toolbar-vote-button-tip absolute left-0 top-0 -translate-x-1/2 bg-blue-500 text-ash-100 px-1.5 whitespace-nowrap leading-4 rounded-full opacity-[--gameBarHoverLabelOpacity]">Like</span>
+                                            </div>
+                                        </button>
+                                        <button
+                                            id="btn-dislike"
+                                            class="game-toolbar-vote-button size-12 m-[14px_6px_auto] group rounded-full relative"
+                                            data-vote="down"
+                                        >
+                                            <div class="flex items-center justify-center w-full h-full">
+                                                
+<svg  class="size-6 text-blue-500" xmlns="http://www.w3.org/2000/svg">
+    <use href="/images/svg/game-icons.svg#thumbDownIcon"></use>
+</svg>
+                                            </div>
+                                            <div class="absolute left-1/2 bottom-2 font-display text-[10px] font-bold text-ash-700">
+                                                <span class="absolute left-0 top-0 -translate-x-1/2 px-[4px] bg-ash-100 whitespace-nowrap leading-4 rounded-full opacity-[--gameBarLabelOpacity] down-votes-count"></span>
+                                                <span class="game-toolbar-vote-button-tip absolute left-0 top-0 -translate-x-1/2 bg-blue-500 text-ash-100 px-1.5 whitespace-nowrap leading-4 rounded-full opacity-[--gameBarHoverLabelOpacity]">Dislike</span>
+                                            </div>
+                                        </button>
+                                    </div>
+                                                                           
+<button id="fullscreen-btn" type="button"
+class="game-toolbar-vote-button size-12 m-[14px_6px_auto] group rounded-full relative">
+    
+
+                                            <div  class="flex items-center justify-center w-full h-full">
+                                                
+<svg  class="size-6 text-blue-500" xmlns="http://www.w3.org/2000/svg">
+    <use href="/images/svg/game-icons.svg#enterFullscreenIcon"></use>
+</svg>
+                                            </div>
+                                            <div class="absolute left-1/2 bottom-2 font-display text-[10px] font-black">
+                                                <span class="absolute left-0 top-0 -translate-x-1/2 bg-blue-500 text-ash-100 leading-4 px-1.5 rounded-full whitespace-nowrap opacity-0 group-hover:opacity-100">Fullscreen</span>
+                                            </div>
+                                        </button>
+                                                                    </div>
+                                                            </div>
+                            <div class="game-toolbar--fullscreen flex justify-between self-stretch grow-0 shrink-0 relative pr-2 w-full h-16 bg-ash-100 overflow-hidden">
+                                <div class="flex items-center w-full m-3">
+                                    <picture>
+                                        <source srcset="/avifgames/polytrack.avif" type="image/avif">
+                                        <img src="/apnggames/polytrack.png" alt="Polytrack" class="size-10 shrink-0 mr-2 overflow-hidden rounded-lg">
+                                    </picture>
+                                    <div class="text-base font-black text-navy truncate">Polytrack</div>
+                                </div>
+                                <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-auto h-8 max-[660.9px]:hidden">
+                                   
+                                </div>
+                                <button id="fullscreen-exit-btn" type="button" class="size-12 m-[5px_6px_auto] hover:bg-ash-200 active:bg-ash-300 group rounded-full relative">
+                                    <div class="flex items-center justify-center w-full h-full">
+                                        
+<svg  class="size-6 text-blue-500" xmlns="http://www.w3.org/2000/svg">
+    <use href="/images/svg/game-icons.svg#exitFullscreenIcon"></use>
+</svg>
+                                    </div>
+                                    <div class="absolute left-1/2 bottom-2 font-display text-[10px] font-black">
+                                        <span class="absolute left-0 top-0 -translate-x-1/2 bg-blue-500 text-ash-100 leading-4 px-1.5 rounded-full whitespace-nowrap opacity-0 group-hover:opacity-100">Minimized</span>
+                                    </div>
+                                </button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="contents">
+                                <a href="/g/escaperoad" class="ir0 rounded-2xl overflow-hidden relative focusable" title="Escape Road" aria-label="Escape Road">
+                                <picture class="contents w-full h-full">
+                                    <source srcset="/avifgames/escaperoad.avif" media="(min-width: 1211px)" type="image/avif" width="204" height="204">
+                                    <source srcset="/apnggames/escaperoad.png" media="(min-width: 1211px)" width="204" height="204">
+                                    <source srcset="/avifgames/escaperoad.avif" type="image/avif" width="94" height="94">
+                                    <img src="/apnggames/escaperoad.png" alt="Escape Road" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/ragdollarchers" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Ragdoll Archers" aria-label="Ragdoll Archers">
+                                <picture>
+                                    <source srcset="/avifgames/ragdollarchers.avif" type="image/avif">
+                                    <img src="/apnggames/ragdollarchers.png" alt="Ragdoll Archers" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/golforbit" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Golf Orbit" aria-label="Golf Orbit">
+                                <picture>
+                                    <source srcset="/avifgames/golforbit.avif" type="image/avif">
+                                    <img src="/apnggames/golforbit.png" alt="Golf Orbit" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/geometrydash" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Geometry Dash" aria-label="Geometry Dash">
+                                <picture>
+                                    <source srcset="/avifgames/geometrydash.avif" type="image/avif">
+                                    <img src="/apnggames/geometrydash.png" alt="Geometry Dash" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/mineline" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Mineline" aria-label="Mineline">
+                                <picture>
+                                    <source srcset="/avifgames/mineline.avif" type="image/avif">
+                                    <img src="/apnggames/mineline.png" alt="Mineline" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/swingo" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Swingo" aria-label="Swingo">
+                                <picture>
+                                    <source srcset="/avifgames/swingo.avif" type="image/avif">
+                                    <img src="/apnggames/swingo.png" alt="Swingo" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/OvO" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="OvO" aria-label="OvO">
+                                <picture>
+                                    <source srcset="/avifgames/ovo.avif" type="image/avif">
+                                    <img src="/apnggames/ovo.png" alt="OvO" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/stickmanbike" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Stickman Bike" aria-label="Stickman Bike">
+                                <picture>
+                                    <source srcset="/avifgames/stickmanbike.avif" type="image/avif">
+                                    <img src="/apnggames/stickmanbike.png" alt="Stickman Bike" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/deadlydecent" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Deadly Decent" aria-label="Deadly Decent">
+                                <picture>
+                                    <source srcset="/avifgames/deadlydecent.avif" type="image/avif">
+                                    <img src="/apnggames/deadlydecent.png" alt="Deadly Decent" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/stackbounce" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Stack Bounce" aria-label="Stack Bounce">
+                                <picture>
+                                    <source srcset="/avifgames/stackbounce.avif" type="image/avif">
+                                    <img src="/apnggames/stackbounce.png" alt="Stack Bounce" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/steelhills" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Steel Hills" aria-label="Steel Hills">
+                                <picture>
+                                    <source srcset="/avifgames/hillsofsteel.avif" type="image/avif">
+                                    <img src="/apnggames/hillsofsteel.png" alt="Steel Hills" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/tombofthemask" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Tomb Of The Mask" aria-label="Tomb Of The Mask">
+                                <picture>
+                                    <source srcset="/avifgames/tomb.avif" type="image/avif">
+                                    <img src="/apnggames/tomb.png" alt="Tomb Of The Mask" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/stickmanhook" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Stickman Hook" aria-label="Stickman Hook">
+                                <picture>
+                                    <source srcset="/avifgames/stickmanhook.avif" type="image/avif">
+                                    <img src="/apnggames/stickmanhook.png" alt="Stickman Hook" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/FNAF5" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="FNAF5 Sister Location" aria-label="FNAF5 Sister Location">
+                                <picture>
+                                    <source srcset="/avifgames/fnafsl.avif" type="image/avif">
+                                    <img src="/apnggames/fnafsl.png" alt="FNAF5 Sister Location" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/drivemad" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Drive Mad" aria-label="Drive Mad">
+                                <picture>
+                                    <source srcset="/avifgames/drivemad.avif" type="image/avif">
+                                    <img src="/apnggames/drivemad.png" alt="Drive Mad" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/stickmanclimb3d" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Stickman Climb 3D" aria-label="Stickman Climb 3D">
+                                <picture>
+                                    <source srcset="/avifgames/stickmanclimb3d.avif" type="image/avif">
+                                    <img src="/apnggames/stickmanclimb3d.png" alt="Stickman Climb 3D" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/ragdollfall" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Ragdoll Fall" aria-label="Ragdoll Fall">
+                                <picture>
+                                    <source srcset="/avifgames/ragdolldrop.avif" type="image/avif">
+                                    <img src="/apnggames/ragdolldrop.png" alt="Ragdoll Fall" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/stuntbikeextreme" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Stunt Bike Extreme" aria-label="Stunt Bike Extreme">
+                                <picture>
+                                    <source srcset="/avifgames/stuntbikeextreme.avif" type="image/avif">
+                                    <img src="/apnggames/stuntbikeextreme.png" alt="Stunt Bike Extreme" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/bikeobby" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Bike Obby" aria-label="Bike Obby">
+                                <picture>
+                                    <source srcset="/avifgames/bikeobby.avif" type="image/avif">
+                                    <img src="/apnggames/bikeobby.png" alt="Bike Obby" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/FNAF2" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="FNAF2" aria-label="FNAF2">
+                                <picture>
+                                    <source srcset="/avifgames/fnaf2.avif" type="image/avif">
+                                    <img src="/apnggames/fnaf2.png" alt="FNAF2" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/ovodimensions" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="OvO Dementions" aria-label="OvO Dementions">
+                                <picture>
+                                    <source srcset="/avifgames/ovodimensions.avif" type="image/avif">
+                                    <img src="/apnggames/ovodimensions.png" alt="OvO Dementions" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/crazycars" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Crazy Cars" aria-label="Crazy Cars">
+                                <picture>
+                                    <source srcset="/avifgames/crazycars.avif" type="image/avif">
+                                    <img src="/apnggames/crazycars.png" alt="Crazy Cars" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/stuntcarextreme" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Stunt Car Extreme" aria-label="Stunt Car Extreme">
+                                <picture>
+                                    <source srcset="/avifgames/stuntcarextreme.avif" type="image/avif">
+                                    <img src="/apnggames/stuntcarextreme.png" alt="Stunt Car Extreme" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/kiwiclicker" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Kiwi Clicker" aria-label="Kiwi Clicker">
+                                <picture>
+                                    <source srcset="/avifgames/kiwiclicker.avif" type="image/avif">
+                                    <img src="/apnggames/kiwiclicker.png" alt="Kiwi Clicker" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/gladihoppers" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Gladihoppers" aria-label="Gladihoppers">
+                                <picture>
+                                    <source srcset="/avifgames/gladihoppers.avif" type="image/avif">
+                                    <img src="/apnggames/gladihoppers.png" alt="Gladihoppers" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/dreadheadparkour" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Dreadhead Parkour" aria-label="Dreadhead Parkour">
+                                <picture>
+                                    <source srcset="/avifgames/dreadhead.avif" type="image/avif">
+                                    <img src="/apnggames/dreadhead.png" alt="Dreadhead Parkour" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/dune" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="DUNE!" aria-label="DUNE!">
+                                <picture>
+                                    <source srcset="/avifgames/dune.avif" type="image/avif">
+                                    <img src="/apnggames/dune.png" alt="DUNE!" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/vex3m" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Vex 3M" aria-label="Vex 3M">
+                                <picture>
+                                    <source srcset="/avifgames/vex3m.avif" type="image/avif">
+                                    <img src="/apnggames/vex3m.png" alt="Vex 3M" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/monkeymart" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Monkey Mart" aria-label="Monkey Mart">
+                                <picture>
+                                    <source srcset="/avifgames/monkeymart.avif" type="image/avif">
+                                    <img src="/apnggames/monkeymart.png" alt="Monkey Mart" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/retrobowlcollege" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Retro Bowl College" aria-label="Retro Bowl College">
+                                <picture>
+                                    <source srcset="/avifgames/rbcollege.avif" type="image/avif">
+                                    <img src="/apnggames/rbcollege.png" alt="Retro Bowl College" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/bowmasters" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Bow Masters" aria-label="Bow Masters">
+                                <picture>
+                                    <source srcset="/avifgames/bowmasters.avif" type="image/avif">
+                                    <img src="/apnggames/bowmasters.png" alt="Bow Masters" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/spiralroll" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Spiral Roll" aria-label="Spiral Roll">
+                                <picture>
+                                    <source srcset="/avifgames/spiralroll.avif" type="image/avif">
+                                    <img src="/apnggames/spiralroll.png" alt="Spiral Roll" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/slowroads" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Slowroads" aria-label="Slowroads">
+                                <picture>
+                                    <source srcset="/avifgames/slowroads.avif" type="image/avif">
+                                    <img src="/apnggames/slowroads.png" alt="Slowroads" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/leveldevil" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Level Devil" aria-label="Level Devil">
+                                <picture>
+                                    <source srcset="/avifgames/leveldevil.avif" type="image/avif">
+                                    <img src="/apnggames/leveldevil.png" alt="Level Devil" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/stickmanclimb2" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Stickman Climb 2" aria-label="Stickman Climb 2">
+                                <picture>
+                                    <source srcset="/avifgames/stickclimb2.avif" type="image/avif">
+                                    <img src="/apnggames/stickclimb2.png" alt="Stickman Climb 2" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/bitlife" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="BitLife" aria-label="BitLife">
+                                <picture>
+                                    <source srcset="/avifgames/bitlife.avif" type="image/avif">
+                                    <img src="/apnggames/bitlife.png" alt="BitLife" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/basketballstars" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Basketball Stars" aria-label="Basketball Stars">
+                                <picture>
+                                    <source srcset="/avifgames/basketballstars.avif" type="image/avif">
+                                    <img src="/apnggames/basketballstars.png" alt="Basketball Stars" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/thereisnog" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="There Is No Game" aria-label="There Is No Game">
+                                <picture>
+                                    <source srcset="/avifgames/thereisnogame.avif" type="image/avif">
+                                    <img src="/apnggames/thereisnogame.png" alt="There Is No Game" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/idleants" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Idle Ants" aria-label="Idle Ants">
+                                <picture>
+                                    <source srcset="/avifgames/idleants.avif" type="image/avif">
+                                    <img src="/apnggames/idleants.png" alt="Idle Ants" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                                                                                                <a href="/g/fullspeedracing" class="size-[94px] rounded-2xl relative overflow-hidden focusable" title="Full Speed Racing" aria-label="Full Speed Racing">
+                                <picture>
+                                    <source srcset="/avifgames/fullspeedracing.avif" type="image/avif">
+                                    <img src="/apnggames/fullspeedracing.png" alt="Full Speed Racing" class="rounded-2xl" width="94" height="94">
+                                </picture>
+                            </a>
+                </div>
+                <div class="a32 [grid-area:a32] flex items-center justify-center">
+                    
+<div  class="flex flex-col slot-300">
+                    <div class="bg-ash-100 slot-frame" data-slot-frame style="width:300px;height:250px">
+            <ins class="adsbygoogle"
+                 style="display:inline-block;width:300px;height:250px"
+                 data-ad-client="ca-pub-2550143154036518"
+                 data-ad-slot="3622462760"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+
+                </div>
+                <div class="a79 [grid-area:a79] flex items-center">
+                    
+<div  class="flex flex-col slot-720">
+                    <div class="bg-ash-100 slot-frame" data-slot-frame style="width:728px;height:90px">
+            <ins class="adsbygoogle"
+                 style="display:inline-block;width:728px;height:90px"
+                 data-ad-client="ca-pub-2550143154036518"
+                 data-ad-slot="3019827537"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+
+                </div>
+                <div class="a16 [grid-area:a16] flex items-center justify-center">
+                    
+<div  class="flex flex-col slot-160">
+                    <div class="bg-ash-100 slot-frame" data-slot-frame style="width:160px;height:600px">
+            <ins class="adsbygoogle"
+                 style="display:inline-block;width:160px;height:600px"
+                 data-ad-client="ca-pub-2550143154036518"
+                 data-ad-slot="1706745868"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+
+                </div>
+            </div>
+
+            <article class="article-card">
+                <nav>
+    <ul>
+                    <li>
+            </li>
+            </ul>
+</nav>
+                <h1 class="text-2xl font-black mt-1 text-navy">Polytrack</h1>
+                <div class="my-2">
+                        
+                                   
+                <picture class="min-[550px]:float-right min-[550px]:mx-6 mt-8 block size-[200px] min-[991px]:size-[256px]">
+                    <img src="/avifgames/polytrack.avif" alt="Polytrack" class="w-full h-full rounded-[20px]"/>
+                </picture>
+                <div class="content">
+<div class="game-description">
+
+<p>Polytrack works best when you treat the first minute as a read on its pace rather than a warmup. In practice, Polytrack is about momentum, course reading, and staying composed when the track asks for more precision than the visuals first suggest. You are usually balancing speed against control, which means every corner, landing, boost, or correction matters a little more than it would in a casual driving game. Good runs feel smooth rather than reckless. The more comfortable you get, the more you start noticing where the game wants an early setup instead of a late rescue.</p>
+
+<p>Most rounds in Polytrack feel short on paper, yet they stay tense because every action nudges the next one. Each attempt revolves around learning the route, carrying speed through safe lines, and recovering quickly when the vehicle gets unsettled. On a fresh run, the temptation is to hold maximum acceleration and improvise. That works for a moment, but Polytrack tends to reward cleaner steering, earlier braking or angle control, and a willingness to sacrifice a tiny bit of pace so the next section stays stable. The gameplay loop becomes satisfying because you are always making short predictions about what is coming next.</p>
+
+<p>Polytrack is easiest to understand when you break it into a few repeatable systems. Mechanically, Polytrack usually comes down to steering control, braking or throttle timing, and keeping the car stable through transitions like bumps, landings, or tight turns. Even when handling is simple, the difficulty comes from linking corners so you exit clean and carry speed into the next section. If there are checkpoints or time goals, consistency matters more than one flashy corner.</p>
+
+<p>Better results usually come from calmer decisions, not constant aggression. If you want better consistency, focus on exits rather than entries. A dramatic turn that looks impressive but leaves you crooked for the next obstacle usually costs more time than a tidy line. It also helps to watch how the vehicle behaves after bumps or landings. In Polytrack, the best correction is often the smallest one. A quick overreaction can turn a recoverable wobble into a full reset, while a calm adjustment lets you keep the run alive.</p>
+
+<p>A typical satisfying moment comes when a round looks unstable for a second and then suddenly turns because your setup was better than it seemed. One memorable kind of sequence in Polytrack happens when you survive a messy landing, keep the wheels pointed just enough in the right direction, and roll straight into the next section without losing the entire attempt. That feeling of almost losing everything and then converting it into momentum is what makes repeat runs compelling. Even familiar tracks stay engaging because there is always one corner or jump that can be taken a little cleaner.</p>
+
+<p>You can usually feel the design working in one small sequence. For example, you might enter a section a little too hot, clip the line awkwardly, and assume the run is gone. Then one controlled correction keeps the vehicle straight enough to save the next obstacle. That sort of recovery is important in Polytrack because the game often rewards composure after a mistake more than raw aggression before it.</p>
+
+<p>The game holds up over multiple runs because improvement is easy to feel. That replay value matters because racing games live or die on whether the next attempt feels informative. Polytrack usually passes that test. If you fail, there is a decent chance you know why, and that makes the next run feel like a better version of the last one rather than a reset back to zero.</p>
+
+<p>Because of that, each restart tends to feel like another useful attempt instead of wasted time. Whether you play for a quick break or stay long enough to chase a cleaner run, Polytrack has the kind of straightforward structure that makes improvement noticeable from one attempt to the next.</p>
+
+<h3>How to play Polytrack?</h3>
+<p>Start with a calm first run so you can read the track, jumps, and steering response. Use the keyboard or the controls shown in the game to manage speed, angle, and recovery. The goal in Polytrack is usually to carry momentum without letting one bad landing or turn ruin the next section. Learn the dangerous corners early, keep your corrections small, and treat a clean exit as more valuable than a dramatic entry.</p>
+
+<h3>Similar games on Pizza Edition</h3>
+<ul>
+<li><strong><a href="/g/driftboss">Drift Boss</a></strong> is an easy-to-read one-button racer that turns tiny steering mistakes into instant lessons.</li>
+<li><strong><a href="/g/drivemad">Drive Mad</a></strong> is a physics-heavy driving game that asks for balance and restraint more often than raw speed.</li>
+<li><strong><a href="/g/tinyfishing">Tiny Fishing</a></strong> is a compact progression game that stays compelling because upgrades clearly change each run.</li>
+</ul>
+
+<h3>Who created Polytrack?</h3>
+<p>Polytrack was created by Kodub.</p>
+
+<h3>Can I play Polytrack on mobile devices and desktop?</h3>
+<p>Polytrack runs in your browser on desktop. Mobile support depends on the embedded version and how well its controls translate to touch devices, so performance and usability can vary between phones, tablets, and computers.</p>
+
+</div>
+
+                                    </div>
+                <ul class="mt-4 text-sm font-display leading-[1]">
+                                        <li class="inline-block mt-2 mr-1">
+                    </li>
+                                    </ul>
+            </article>
+
+        </div>
+
+    </div>
+  <footer class="footer">
+    <div class="footer-divider"></div>
+
+    <div class="footer-content">
+      <div class="footer-brand">
+        <div class="footer-brand-head">
+          <img src="/images/pizzalogo.png" alt="The Pizza Edition Logo" class="footer-logo">
+          <a href="/" class="footer-name">The Pizza Edition</a>
+        </div>
+
+        <p class="footer-quote">Hot picks, fast loading, zero hassle. Jump in instantly.</p>
+
+      </div>
+
+      <div class="footer-cols">
+        <div class="footer-col">
+          <div class="footer-title">Pages</div>
+          <ul class="footer-list">
+            <li><a href="/" class="footer-link">Home</a></li>
+            <li><a href="/popular" class="footer-link">Popular</a></li>
+            <li><a href="/g" class="footer-link">All</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <div class="footer-title">Legal</div>
+          <ul class="footer-list">
+            <li><a href="/privacy" class="footer-link">Privacy Policy</a></li>
+            <li><a href="/dmca" class="footer-link">Copyright Policy</a></li>
+            <li><a href="/tos" class="footer-link">Terms of Service</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <div class="footer-title">Contact</div>
+          <ul class="footer-list">
+            <li>
+              <a href="#SOON" class="footer-link">
+                <svg class="footer-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M20.3 4.4a19.8 19.8 0 0 0-4.9-1.5l-.6 1.2a18.3 18.3 0 0 0-5.5 0l-.6-1.2a19.7 19.7 0 0 0-4.9 1.5C.5 9-.3 13.6.1 18.1a.1.1 0 0 0 0 .1 19.9 19.9 0 0 0 6 3 .1.1 0 0 0 .1 0c.5-.6.9-1.3 1.2-2a.1.1 0 0 0-.1-.1 12 12 0 0 1-1.9-.9.1.1 0 0 1 0-.1l.4-.3a.1.1 0 0 1 .1 0c3.9 1.8 8.1 1.8 12 0a.1.1 0 0 1 .1 0l.4.3a.1.1 0 0 1 0 .1 12 12 0 0 1-1.9.9.1.1 0 0 0-.1.1c.4.7.8 1.4 1.2 2a.1.1 0 0 0 .1 0 19.9 19.9 0 0 0 6-3 .1.1 0 0 0 0-.1c.5-5.2-.8-9.7-3.5-13.7zM8 15.3c-1.2 0-2.2-1.1-2.2-2.4S6.8 10.5 8 10.5s2.2 1.1 2.2 2.4S9.2 15.3 8 15.3zm8 0c-1.2 0-2.2-1.1-2.2-2.4s1-2.4 2.2-2.4 2.2 1.1 2.2 2.4-1 2.4-2.2 2.4z"></path>
+                </svg>
+                <span>Join our Discord (SOON)</span>
+              </a>
+            </li>
+            <li>
+              <a href="/cdn-cgi/l/email-protection#462529283227253206362f3c3c2723222f322f292868312f28" class="footer-link">
+                <svg class="footer-icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M4 6h16v12H4z"></path>
+                  <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M4 6l8 7 8-7"></path>
+                </svg>
+                <span><span class="__cf_email__" data-cfemail="85e6eaebf1e4e6f1c5f5ecffffe4e0e1ecf1eceaebabf2eceb">[email&#160;protected]</span></span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">© 2026 The Pizza Edition. All rights reserved.</div>
+  </footer>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+
+<script defer src="/jsload/votingcontroller.js"></script>
+
+<script>
+(() => {
+  const STORAGE_KEY = "recentlyPlayedPerLocale";
+  const FALLBACK_LIMIT = 12;
+
+  const root = document.querySelector('[data-controller~="add-to-recently-played"]');
+  const locale = (
+    root?.dataset.addToRecentlyPlayedLocaleValue ||
+    document.documentElement.lang ||
+    "en"
+  ).toLowerCase();
+
+  const name =
+    root?.dataset.addToRecentlyPlayedNameValue ||
+    document.querySelector('meta[property="og:title"]')?.content ||
+    document.querySelector("h1")?.textContent?.trim() ||
+    document.title ||
+    "Game";
+
+  const image =
+    root?.dataset.addToRecentlyPlayedImageValue ||
+    document.querySelector('meta[property="og:image"]')?.content ||
+    document.querySelector("img")?.src ||
+    "";
+
+  const rawUrl =
+    root?.dataset.addToRecentlyPlayedUrlValue ||
+    location.pathname;
+  const url = rawUrl.replace(/\/+$/, "") + "/";
+
+  const limit = Number(root?.dataset.addToRecentlyPlayedLimitValue || FALLBACK_LIMIT);
+
+  if (!name || !image || !url) return;
+
+  let stored = {};
+  try {
+    stored = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
+  } catch {
+    stored = {};
+  }
+
+  const list = Array.isArray(stored[locale]) ? stored[locale] : [];
+  const deduped = list.filter((game) => game && game.url !== url);
+  deduped.unshift({ name, image, url });
+  stored[locale] = deduped.slice(0, Number.isFinite(limit) && limit > 0 ? limit : FALLBACK_LIMIT);
+
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(stored));
+})();
+</script>
+
+<script>
+(() => {
+  const toggles = document.querySelectorAll('#fullscreen-btn, #fullscreen-exit-btn');
+  if (!toggles.length) return;
+
+  
+
+  const wrapper = document.getElementById("fullscreen-wrapper");
+  if (!wrapper) {
+    console.error("Missing #fullscreen-wrapper");
+    return;
+  }
+  if (!wrapper.hasAttribute("tabindex")) {
+    wrapper.setAttribute("tabindex", "-1");
+  }
+
+    
+
+  function isFullscreenOn() {
+    return Boolean(
+      document.fullscreenElement ||
+      document.webkitFullscreenElement
+    );
+  }
+
+  async function exitFullscreen() {
+    if (document.exitFullscreen) return document.exitFullscreen();
+    if (document.webkitExitFullscreen) return document.webkitExitFullscreen();
+  }
+
+  async function enterFullscreen(el) {
+    el.focus({ preventScroll: true });
+    if (el.requestFullscreen) return el.requestFullscreen();
+    if (el.webkitRequestFullscreen) return el.webkitRequestFullscreen();
+    throw new Error("Fullscreen API not supported");
+  }
+
+  function syncFullscreenState() {
+    const active = isFullscreenOn();
+    document.body.classList.toggle("isFullscreen", active);
+    toggles.forEach(btn => btn.setAttribute("aria-pressed", active ? "true" : "false"));
+  }
+
+  async function toggleFullscreen(e) {
+    e.preventDefault();
+    try {
+      if (isFullscreenOn()) {
+        await exitFullscreen();
+      } else {
+        try {
+          await enterFullscreen(wrapper);
+        } catch (e) {
+          const frame = document.getElementById("embed-frame");
+          if (frame) {
+            await enterFullscreen(frame);
+          } else {
+            throw e;
+          }
+        }
+
+      }
+    } catch (err) {
+      console.error("Fullscreen toggle failed:", err);
+    }
+  }
+
+  // Bind click handlers
+  toggles.forEach(btn => btn.addEventListener("click", toggleFullscreen));
+
+  // Listen for fullscreen changes
+  ["fullscreenchange", "webkitfullscreenchange"].forEach(ev =>
+    document.addEventListener(ev, syncFullscreenState)
+  );
+
+  syncFullscreenState();
+})();
+</script><script src="/jsload/searchicons.js"></script>
+<script src="/jsload/searchlogic.js"></script>
+
+</body>
+</html>
